@@ -25,7 +25,7 @@
 ---
 
 ## 👥 Team Members & Credits
-* **Lucinda Nabil** *(Team Leader)*
+* **Lucynda Nabil** *(Team Leader)*
 * **Renad Mohamed**
 * **Hala Mokhtar**
 * **Farah Walid**
