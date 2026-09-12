@@ -21,7 +21,7 @@
 ---
 
 ## 👨‍🏫 Instructor
-* **Mr. Sameh Ibrahim**
+* **Dr. Sameh Ibrahim**
 
 ---
 
