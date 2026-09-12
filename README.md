@@ -1,4 +1,4 @@
-# # 🌟 Wanas Community
+#  🌟 Wanas Community
 
 > **Digital Marketing & Campaign Agency for Social & Offline Events**  
 > *Digital Egypt Pioneers Initiative (DEPI) - Final Project*
