@@ -16,7 +16,6 @@
 * **Hala Mokhtar**
 * **Farah Walid**
 * **Rana Tamer**
-* **Sama Saeed**
 
 ---
  ## 👨‍🏫 Instructor
